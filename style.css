@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(226, 224, 224);
+}
+
+.karobka1{
+    background-color: rgb(11, 11, 80);
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+}
+.karobka2{
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px;
+}
+.a{
+    color: green;
+}
+.karobka3{
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    background-color: aquamarine;
+}
+.p1{
+    font-size: 20px;
+    text-align: left;
+    border-left: 3px solid blue;
+    padding: 10px;
+}
+.p2{
+    font-size: 20px;
+    text-align: left;
+    border-left: 3px solid blue;
+    padding: 10px;
+    color: blue;
+}
